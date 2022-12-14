@@ -4,8 +4,8 @@
     {
         public const string GAME_VERSION = "0.5.2";
 
-        //public const string SERVER_URL = "https://www.eeangames.com:8180/tbsg-01-game-server/MainServlet";
-        public const string SERVER_URL = "http://eeangames:8180/tbsg-01-game-server/MainServlet";
+        public const string SERVER_URL = "https://######";
+        //public const string SERVER_URL = "http://######";
 
         public const int FRAMES_BEFORE_REUPDATING_CONNECTION = 25;
 
